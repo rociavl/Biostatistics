@@ -93,13 +93,16 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy jupyter
 - **Treatment Planning**: Inform clinical decision-making with risk scores
 - **Public Health**: Population-level CKD surveillance and prevention strategies
 
-## 👥 Author
+## 👥 Authors
 
 **Rocío Ávalos Morillas**
 - Biomedical Engineering Student, UPC
 - Email: rocio.avalos029@gmail.com
 - LinkedIn: [Rocío Ávalos Morillas](https://www.linkedin.com/in/roc%C3%ADo-%C3%A1valos-morillas-04a5372b1/)
 - GitHub: [@rociavl](https://github.com/rociavl)
+
+**Ainhoa Fraile Pulido**
+- Biomedical Engineering Student, UPC
 
 ## 📄 License
 
